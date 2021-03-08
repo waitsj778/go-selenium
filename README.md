@@ -1,7 +1,7 @@
 # 概要
 Go-Seleniumによるブラウザ操作
 # 手順 
-### ⚠️chromedriverとchromeのバージョンを一致させる
+### ⚠️ chromedriverとchromeのバージョンを一致させる
 ```
 brew install chromedriver
 go mod init goseleniumtest
